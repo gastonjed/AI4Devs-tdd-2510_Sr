@@ -43,3 +43,9 @@ Also, document the tests properly in a separate markdown.
 # Prompt 3
 
 having only one @backend/src/tests/tests-GDT.test.ts file looks a bit complex. Propose a plan to refactor it based on good practices. Do not implement it until I confirm it. If I approve, then both tests and docs  @backend/tests-GDT-documentation.md must be updated.
+
+# Prompt 4
+
+Looking at @backend/tests-GDT-documentation.md and @prompts-GDT.md, give me a simple, quick and summarized description that I can add in the PR.
+
+It must be in md format so I can copy and paste it
