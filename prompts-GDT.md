@@ -39,3 +39,7 @@ First PLAN the test to be implemented and wait for my confirmation to proceed. J
 You must generate a file `tests-GDT.test.ts` in the folder `backend/src/tests`.
 
 Also, document the tests properly in a separate markdown.
+
+# Prompt 3
+
+having only one @backend/src/tests/tests-GDT.test.ts file looks a bit complex. Propose a plan to refactor it based on good practices. Do not implement it until I confirm it. If I approve, then both tests and docs  @backend/tests-GDT-documentation.md must be updated.
